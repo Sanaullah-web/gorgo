@@ -1,0 +1,232 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    width: 70%;
+    margin: 15px auto 135px;
+    overflow: hidden;
+}
+header img{   
+    float: left;
+    margin-right: 25px;
+}
+header nav{   
+    float: left;
+    overflow: hidden;
+    color: #3B3850;
+}
+header button{ 
+    float: right;
+    padding: 15px;
+    background-color: #FF6162;
+    border: 0px;
+    color: #fff;
+    text-transform: capitalize;
+    font-weight: bolder;
+}
+header nav ul{    
+    text-transform: capitalize;
+}
+header nav ul li{    
+    float: left;
+    list-style: none;
+    padding: 15px;
+    font-size: larger;
+}
+main{
+   width: 70%;
+    margin: 40px auto 300px;
+    overflow: hidden;
+}
+main img{
+    float: right;
+    width: 50%;
+}
+main .text{
+    float: left;
+    width: 48%;
+    text-transform: capitalize;
+}
+main .text h1{
+    padding: 20px 0px;
+    font-size: 40px;
+    color: #292640;
+}
+main .text p{
+    padding: 5px 0px 10px;
+    font-size: 12px;
+    color: #7789BF;
+}
+main .text img{
+    width: 58px;
+    float: left;
+    padding: 20px 0px;
+}
+section{
+    width: 30%;
+    text-align: center;
+    margin: 0px auto 20px;
+}
+section h2{
+    text-transform: capitalize;
+    font-size: 30px;
+    color: #292640;
+}
+section p{   
+    font-size: smaller;
+    color: #7B90CE;
+    font-style: oblique;
+}
+.image{
+    width: 90%;
+    margin: auto;
+    overflow: hidden;
+    font-weight: bold;
+    color: #4F5355;
+    margin-bottom: 300px;
+}
+.image .img1{   
+    width: 24%;
+    float: left;
+}
+.image .img2{   
+    width: 24%;
+    float: left;
+    margin-left: 15px;
+}
+.image .img3{   
+    width: 24%;
+    float: left;
+    margin-left: 15px;  
+}
+.image .img4{   
+    width: 24%;
+    float: right;
+}
+.image .img1 img, .image .img2 img, .image .img3 img, .image .img4 img{   
+    width: 100%;
+}
+.image .img1 caption, .image .img2 caption, .image .img3 caption, .image .img4 caption{
+    text-align: center;
+}
+.feature{
+
+    width: 75%;
+    margin: auto;
+    overflow: hidden;
+    text-align: center;
+    height: 525px;
+    margin-bottom: 85px;
+}
+.feature h3{
+    
+    padding-bottom: 5px;
+    height: 20px;
+}
+.feature p{
+    
+    font-style: normal;
+    padding-bottom: 20px;
+    color: #989A9B;
+    height: 20px;
+}
+.feature .f1{   
+    float: left;
+    width: 300px;
+    background-color: #F3F3F3;
+    padding: 10px;
+    height: 200px;
+}
+.feature .f2{   
+    float: left;
+    width: 300px;
+    background-color: #F3F3F3;
+    padding: 10px;
+    height: 200px;
+    margin-left: 26px;
+}
+.feature .f3{   
+    float: right;
+    width: 300px;
+    background-color: #F3F3F3;
+    padding: 10px;
+    height: 200px;
+}
+.feature .f4{   
+    float: left;
+    width: 300px;
+    background-color: #F3F3F3;
+    padding: 10px;
+    height: 200px;
+    margin-top: 26px;
+}.feature .f5{   
+    float: left;
+    width: 300px;
+    background-color: #F3F3F3;
+    padding: 10px;
+    height: 200px;
+    margin-left: 26px;
+    margin-top: 26px;
+}
+.feature .f6{   
+    float: right;
+    width: 300px;
+    background-color: #F3F3F3;
+    padding: 10px;
+    height: 200px;
+    margin-top: 26px;
+}
+.feature .f1 img, .feature .f2 img, .feature .f3 img, .feature .f4 img, .feature .f5 img, .feature .f6 img{
+    width: 33%;
+}
+.feature .f1 h4, .feature .f2 h4, .feature .f3 h4, .feature .f4 h4, .feature .f5 h4, .feature .f6 h4{
+    color: #464A4C;
+    margin: 10px;
+}
+.feature .f1 p, .feature .f2 p, .feature .f3 p, .feature .f4 p, .feature .f5 p, .feature .f6 p{
+    color: #989A9B;
+}
+footer{
+    background-color: #292640;
+    height: 306px;
+}
+footer p{  
+    color: #FFFFFF;
+    padding: 35px 50px 5px;
+    text-align: center;
+    font-size: 30px;
+}
+footer button{
+    padding: 15px;
+    background-color: #FF6162;
+    border: 0px;
+    color: #fff;
+    text-transform: capitalize;
+    font-weight: bolder;
+    margin: 10px 588px;
+}
+footer .themo{
+    overflow: hidden;
+    text-align: center;
+    width: 10%;
+    height: 12%;
+    padding-left: 617px;
+    padding-top: 4px;
+}
+footer .themo img{   
+    float: left;
+    width: 20%;
+    margin-right: -35px;
+}
+footer .themo p{  
+    font-size: 10px;
+    margin: 0px;
+    padding: 20px 0px;
+    color: #918F9C;
+}
+footer img{   
+    float: right;
+    width: 40px;
+    margin: 10px;
+}
